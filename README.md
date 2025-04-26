@@ -54,7 +54,7 @@ The ERD defines the structure of the database, showing tables, their attributes,
 
 ---
 
-## 💬 Author
+## Author
 - Project completed as part of a peer group assignment on database design.
 - Special thanks to the group collaboration and contribution!
 
