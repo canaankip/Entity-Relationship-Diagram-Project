@@ -1,6 +1,6 @@
-# 📦 E-commerce Database Design Project
+# E-commerce Database Design Project
 
-## 📚 About the Project
+## About the Project
 This project focuses on designing and implementing a complete database system for an e-commerce platform.  
 The goal was to understand how real-world e-commerce applications manage data like products, brands, sizes, colors, and product attributes efficiently.
 
@@ -8,20 +8,20 @@ We designed an Entity-Relationship Diagram (ERD) to model the structure clearly,
 
 ---
 
-## 🎯 Objective
+## Objective
 - Build a well-structured relational database for an e-commerce store.
 - Practice core database design skills like ERD creation, primary and foreign keys setup, and normalization.
 - Understand how different product variations (like size and color) are managed in real-world systems.
 
 ---
 
-## 🗺️ ERD (Entity-Relationship Diagram)
+## ERD (Entity-Relationship Diagram)
 The ERD defines the structure of the database, showing tables, their attributes, and relationships.  
 ![ERD Diagram](ERD.png)
 
 ---
 
-## 🗃️ Tables Created
+## Tables Created
 | Table Name | Purpose |
 |:-----------|:--------|
 | `brand` | Stores different brand names. |
@@ -39,7 +39,7 @@ The ERD defines the structure of the database, showing tables, their attributes,
 
 ---
 
-## 🛠️ How to Use
+##  How to Use
 1. Clone or download this repository.
 2. Import the `ecommerce.sql` file into your MySQL server or database tool.
 3. Explore the tables and sample data.
@@ -47,7 +47,7 @@ The ERD defines the structure of the database, showing tables, their attributes,
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 - MySQL
 - Lucidchart (or any ERD drawing tool)
 - GitHub for version control and documentation
@@ -60,7 +60,7 @@ The ERD defines the structure of the database, showing tables, their attributes,
 
 ---
 
-## 📌 Notes
+##  Notes
 - This project demonstrates strong skills in database normalization and relational modeling.
 - The structure is designed to easily extend to full-stack development for real e-commerce platforms.
 # Entity-Relationship-Diagram-Project
